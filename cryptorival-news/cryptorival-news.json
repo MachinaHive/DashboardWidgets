@@ -1,0 +1,7 @@
+{
+  "WidgetTitle": "CryptoRival News",
+  "WidgetOrder": 99,
+  "WidgetInitSize": 4,
+  "WidgetEnabled": true,
+  "WidgetAddCard": true
+}

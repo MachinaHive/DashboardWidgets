@@ -1,0 +1,7 @@
+{
+  "WidgetTitle": "CryptoPanic News",
+  "WidgetOrder": 21,
+  "WidgetInitSize": 4,
+  "WidgetEnabled": true,
+  "WidgetAddCard": true
+}

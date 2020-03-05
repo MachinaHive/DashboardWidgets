@@ -1,0 +1,7 @@
+{
+  "WidgetTitle": "Coinlib Currency Converter",
+  "WidgetOrder": 5,
+  "WidgetInitSize": 2,
+  "WidgetEnabled": true,
+  "WidgetAddCard": false
+}

@@ -1,0 +1,7 @@
+{
+  "WidgetTitle": "TradingView Chart",
+  "WidgetOrder": 6,
+  "WidgetInitSize": 6,
+  "WidgetEnabled": true,
+  "WidgetAddCard": false
+}

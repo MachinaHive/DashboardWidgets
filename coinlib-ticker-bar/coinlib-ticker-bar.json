@@ -1,0 +1,7 @@
+{
+  "WidgetTitle": "Coinlib Ticker Bar",
+  "WidgetOrder": 3,
+  "WidgetInitSize": 12,
+  "WidgetEnabled": true,
+  "WidgetAddCard": false
+}

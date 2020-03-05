@@ -1,0 +1,7 @@
+{
+  "WidgetTitle": "TradingView Economic Calendar",
+  "WidgetOrder": 12,
+  "WidgetInitSize": 4,
+  "WidgetEnabled": true,
+  "WidgetAddCard": false
+}

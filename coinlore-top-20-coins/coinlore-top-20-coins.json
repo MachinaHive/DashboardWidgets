@@ -1,0 +1,7 @@
+{
+  "WidgetTitle": "Coinlore Top 20 Coins",
+  "WidgetOrder": 10,
+  "WidgetInitSize": 6,
+  "WidgetEnabled": true,
+  "WidgetAddCard": false
+}

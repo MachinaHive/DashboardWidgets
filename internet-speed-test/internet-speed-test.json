@@ -1,0 +1,7 @@
+{
+  "WidgetTitle": "Internet Speed Test",
+  "WidgetOrder": 7,
+  "WidgetInitSize": 3,
+  "WidgetEnabled": true,
+  "WidgetAddCard": false
+}

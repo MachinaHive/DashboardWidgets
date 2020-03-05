@@ -1,0 +1,7 @@
+{
+  "WidgetTitle": "All Conversion Widget",
+  "WidgetOrder": 99,
+  "WidgetInitSize": 4,
+  "WidgetEnabled": true,
+  "WidgetAddCard": true
+}

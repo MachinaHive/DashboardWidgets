@@ -1,0 +1,7 @@
+{
+  "WidgetTitle": "Twitter MachinaTrader",
+  "WidgetOrder": 99,
+  "WidgetInitSize": 3,
+  "WidgetEnabled": true,
+  "WidgetAddCard": false
+}
